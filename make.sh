@@ -13,7 +13,7 @@
 
 set -e
 
-PACKAGES="lablgl,lablgl.glut,oUnit,batteries,camlimages"
+PACKAGES="lablgl,lablgl.glut,oUnit,batteries"
 SELF=$0
 TARGET=$1
 FLAGS="-use-ocamlfind -cflags -g \
