@@ -34,8 +34,5 @@ Choose clone existing repository using the angicart url you make from your accou
 --after making changes to any file in angicart--
 1. Rescan
 2. Stage Changed
-open up through your windows startup menu by typing cmd in the search box
-git config --global user.email "name@email"
-git config --global user.name "name"
 3. Commit
 4. Push
