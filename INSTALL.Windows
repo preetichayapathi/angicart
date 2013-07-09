@@ -33,5 +33,6 @@ It asks for user credentials from when you first make the GIT account
 Choose clone existing repository using the angicart url you make from your account. 
 --after making changes to any file in angicart--
 1. Rescan
-2. Commit
-3. Push
+2. Stage Changed
+3. Commit
+4. Push
