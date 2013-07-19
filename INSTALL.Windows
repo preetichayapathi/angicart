@@ -1,5 +1,5 @@
 First, install Wodi with http://wodi.forge.ocamlcore.org/
-   - install 32 bit version
+   - install 32 bit version and batteries, camlimages, and ounit through the package manager
 
 Ocaml exists in C:/wodi32, so use the terminal window for cygwin in wodi
 
